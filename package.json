@@ -1,0 +1,17 @@
+{
+  "name": "ahmed_shahid_atm",
+  "version": "1.0.0",
+  "description": "Functionality of ATM machine. Project is made using Typescript.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+
+  },
+  "author": "Ahmed Shahid",
+  "license": "MIT"
+}
